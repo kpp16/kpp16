@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **Systems, C++, Databases, API development**
 
-- 📫 How to reach me **kairav.parekh@outlook.com**
 
 <p align="left">
 </p>
