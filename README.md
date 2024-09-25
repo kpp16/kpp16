@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Design Patterns, Distributed Systems**
 
-- 👨‍💻 All of my projects are available at [github.com/kpp16](github.com/kpp16)
+- 👨‍💻 All of my projects are available at [github.com/kpp16](https://github.com/kpp16)
 
 - 💬 Ask me about **Systems, C++, Databases, API development**
 
